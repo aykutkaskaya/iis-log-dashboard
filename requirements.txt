@@ -1,0 +1,9 @@
+streamlit
+pandas
+plotly
+folium
+streamlit-folium
+user-agents
+pytz
+pyarrow
+requests
