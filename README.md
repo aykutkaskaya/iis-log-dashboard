@@ -62,15 +62,6 @@ docker run -d -p 8501:8501 --name iis-dashboard iis-dashboard
 
 ---
 
-## 📸 Ekran Görüntüsü
-> Buraya kendi ekran görüntünüzü ekleyebilirsiniz.
-
-```markdown
-![Dashboard Screenshot](docs/screenshot.png)
-```
-
----
-
 ## 🛠 Gereksinimler
 - Python 3.9+  
 - [Streamlit](https://streamlit.io/)  
