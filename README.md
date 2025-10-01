@@ -23,7 +23,7 @@ Bu uygulama ile tek bir IIS W3C log dosyasını (`.log` veya `.txt`) yükleyebil
 
 ### 1. Kaynak Kod ile Çalıştırma
 ```bash
-git clone https://github.com/kullaniciadi/iis-log-dashboard.git
+git clone https://github.com/aykutkaskaya/iis-log-dashboard.git
 cd iis-log-dashboard
 
 # Sanal ortam (opsiyonel ama tavsiye edilir)
